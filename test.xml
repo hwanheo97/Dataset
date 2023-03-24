@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<world>
+	<people name='김민국'>
+		<age>15</age>
+		<tall>183cm</tall>
+		<add>'서울시 서대문구'</add>
+	</people>
+	<people name='박한솔' >
+		<age>30</age>
+		<tall>175cm</tall>
+		<add>'서울시 용산구'</add>
+	</people>
+</world>
